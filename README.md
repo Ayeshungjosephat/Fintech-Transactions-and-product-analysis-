@@ -1,5 +1,6 @@
 # Fintech-product-analytics-
 📊 **Project Overview**
+
 An end-to-end fintech analytics project focused on understanding customer activity, product performance, acquisition, and transaction behavior.
 
 The project uses SQL, Power BI, and DAX to transform transactional data into actionable business insights that can support product, growth, and customer engagement decisions.

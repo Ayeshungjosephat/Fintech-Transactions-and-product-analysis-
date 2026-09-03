@@ -6,6 +6,7 @@ An end-to-end fintech analytics project focused on understanding customer activi
 The project uses SQL, Power BI, and DAX to transform transactional data into actionable business insights that can support product, growth, and customer engagement decisions.
 
 🎯 **Business Objective**
+
 The objective of this analysis was to:
 
 - Evaluate product performance and customer engagement
@@ -19,7 +20,10 @@ The objective of this analysis was to:
 - Power BI — Interactive dashboards and visualization
 - DAX — KPI calculations and business metrics
 
-📈 **Key Business Insights**
+
+
+ 📈 **Key Business Insights**
+ 
 1. **Customer acquisition weakened significantly**
 
 New customer acquisition peaked at approximately 1.5K customers in July 2025, but declined steadily afterward, reaching only 100–200 new customers per month by May–June 2026.
@@ -54,6 +58,7 @@ This suggests that the business relies heavily on certain products for transacti
 
 
 💡 **Business Recommendations**
+
 1. **Strengthen customer acquisition**
 
 Investigate the decline in acquisition across marketing channels, campaigns, referrals, product performance, and geographic markets. Identify the channels generating the highest-quality customers and prioritize investment in those channels.

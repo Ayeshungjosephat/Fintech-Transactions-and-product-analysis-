@@ -31,7 +31,7 @@ Active customers peaked at approximately 2.7K in July 2025 before declining to a
 
 This indicates that the business is facing both an acquisition challenge and a significant decline in customer activity.
 
-3.**Existing customers represent the majority of the customer base**
+3. **Existing customers represent the majority of the customer base**
 
 Customer segmentation shows approximately 10K existing customers (55.6%) compared with 8K new customers (44.4%).
 
@@ -48,6 +48,8 @@ This presents an opportunity to increase engagement by moving lower-frequency us
 Card Sales is a major contributor to transaction activity and value, while product-level success rates vary considerably across products.
 
 This suggests that the business relies heavily on certain products for transaction activity while other products have opportunities for performance improvement.
+
+
 
 
 💡 **Business Recommendations**

@@ -24,7 +24,7 @@ The objective of this analysis was to:
 
 ### Executive Summary
 
-![Executive Summary Dashboard](images/executive-summary.png)
+![Executive Summary Dashboard](https://github.com/Ayeshungjosephat/Fintech-Transactions-and-product-analysis-/blob/main/images/Executive%20summary.PNG)
 
 ### Product Analytics
 

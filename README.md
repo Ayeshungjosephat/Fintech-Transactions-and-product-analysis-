@@ -20,6 +20,16 @@ The objective of this analysis was to:
 - Power BI — Interactive dashboards and visualization
 - DAX — KPI calculations and business metrics
 
+## Power BI Dashboard
+
+### Executive Summary
+
+![Executive Summary Dashboard](images/executive-summary.png)
+
+### Product Analytics
+
+![Product Analytics Dashboard](images/product.png)
+
 
 
  📈 **Key Business Insights**

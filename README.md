@@ -24,11 +24,12 @@ The objective of this analysis was to:
 
 ### Executive Summary
 
-![Executive Summary Dashboard](https://github.com/Ayeshungjosephat/Fintech-Transactions-and-product-analysis-/blob/main/images/Executive%20summary.PNG)
+![Executive Summary Dashboard](images/Executive-summary.PNG)
+
 
 ### Product Analytics
 
-![Product Analytics Dashboard](images/product.png)
+![Product Analytics Dashboard](images/product.PNG)
 
 
 

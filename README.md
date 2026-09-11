@@ -24,7 +24,7 @@ The objective of this analysis was to:
 
 ### Executive Summary
 
-![Executive Summary Dashboard](images/Executive-summary.PNG)
+![Executive Summary Dashboard](images/Executive_summary.PNG)
 
 
 ### Product Analytics
